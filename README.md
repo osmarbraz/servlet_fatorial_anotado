@@ -1,4 +1,4 @@
-# Programa de cálculo fatorial usando Java Servlet anotado.
+# Programa WEB de cálculo fatorial usando Java Servlet anotado.
 
 - Programa WEB usando Java Servlet para calcular o fatorial.
 - Utiliza Java Servlet anotado.
